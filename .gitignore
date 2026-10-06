@@ -1,0 +1,15 @@
+# Saída de build do NetBeans/Ant
+build/
+dist/
+nbproject/private/
+*.class
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+CLAUDE.md
